@@ -1,0 +1,11 @@
+{
+  "name": "fleetmsv3-node-api",
+  "version": "1.0.0",
+  "description": "Node API for FleetMV Version 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kindson The Tech Pro",
+  "license": "ISC"
+}
